@@ -18,7 +18,7 @@ import Review from './components/Review';
 import Profile from './components/Profile';
 import MentorProfile from './components/MentorProfile';
 // still in testing
-import authUser from './components/auth_user';
+import authUser from './components/auth/auth_user';
 /* Mentor Related Components */
 import MentorSignup from './components/MentorSignup';
 import MentorLogin from './components/MentorLogin';
